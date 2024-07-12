@@ -83,7 +83,7 @@ address {
     letter-spacing: 0.02em;
 }
 
-.hero-button {
+button {
     background-color: #4D5AE5;
     color: #FFFFFF;
     font-family: 'Roboto', sans-serif;
@@ -141,6 +141,19 @@ address {
 .team, .portfolio {
     padding: 3rem 1rem;
 }
+
+section {
+    background-color: #2e2f42;
+}
+
+h1 {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
 
 .section-title {
     font-size: 36px;
