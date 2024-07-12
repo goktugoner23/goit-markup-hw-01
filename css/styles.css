@@ -22,11 +22,15 @@ span {
 }
 
 a {
-    color: #434455;
+    color: #2e2f42;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     font-weight: 500;
+}
+
+.contact-link {
+    color: #434455;
 }
 
 a:hover, a:focus {
@@ -90,6 +94,5 @@ h2 {
 }
 
 footer {
-    color: #2e2f42;
-
+    background-color: #2e2f42;
 }
