@@ -26,7 +26,6 @@ body {
 
 .logo .web {
     color: #4D5AE5;
-    margin-right: 4px;
 }
 
 .nav-links, .contact-info {
@@ -52,6 +51,10 @@ body {
 
 .nav-link:hover, .contact-link:hover, .nav-link:focus, .contact-link:focus {
     color: #404BBF;
+}
+
+address {
+    font-style: normal;
 }
 
 .hero-section {
@@ -122,8 +125,6 @@ body {
 
 .team, .portfolio {
     padding: 3rem 1rem;
-    background-color: #F4F4FD;
-    text-align: center;
 }
 
 .section-title {
@@ -132,6 +133,7 @@ body {
     letter-spacing: 0.02em;
     color: #2E2F42;
     text-transform: capitalize;
+    text-align: center;
     margin-bottom: 2rem;
 }
 
