@@ -70,19 +70,6 @@ address {
     font-style: normal;
 }
 
-.hero-section {
-    background-color: #2E2F42;
-    text-align: center;
-    padding: 3rem 1rem;
-    color: #FFFFFF;
-}
-
-.hero-title {
-    font-size: 56px;
-    line-height: 1.07;
-    letter-spacing: 0.02em;
-}
-
 button {
     background-color: #4D5AE5;
     color: #FFFFFF;
@@ -97,7 +84,7 @@ button {
     margin-top: 1rem;
 }
 
-.hero-button:hover, .hero-button:focus {
+button:hover, button:focus {
     background-color: #404BBF;
 }
 
@@ -152,17 +139,6 @@ h1 {
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
-}
-
-
-.section-title {
-    font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-    text-transform: capitalize;
-    text-align: center;
-    margin-bottom: 2rem;
 }
 
 .team ul, .portfolio ul {
